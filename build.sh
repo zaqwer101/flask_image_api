@@ -1,3 +1,3 @@
 #!/bin/bash
 export DOCKER_BUILDKIT=1
-docker build --tag image_api:latest .
+docker build --tag zaqwer101/flask_image_api .
